@@ -1,1 +1,10 @@
-
+langchain
+langchain-google-genai
+langchain-groq
+google-generativeai
+tavily-python
+streamlit
+pandas
+numpy
+matplotlib
+seaborn
